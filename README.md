@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Engin`s GitHub stats](https://github-readme-stats.vercel.app/api?username=dirien&show_icons=true&theme=radical)
+
+
 <!--
 **alexandrucracea/alexandrucracea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
