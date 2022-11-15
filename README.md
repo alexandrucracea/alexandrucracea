@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 ![Alex`s GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrucracea&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrucracea)](https://github.com/alexandrucracea/github-readme-stats)
 
+<a href="https://github.com/alexandrucracea/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandrucracea&repo=github-readme-stats" />
+</a>
 
 <!--
 **alexandrucracea/alexandrucracea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
