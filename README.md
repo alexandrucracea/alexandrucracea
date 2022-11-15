@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Alex`s GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrucracea&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrucracea)](https://github.com/alexandrucracea/github-readme-stats)
 
 
 <!--
