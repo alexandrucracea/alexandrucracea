@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alex`s GitHub stats](https://github-readme-stats.vercel.app/api?username=dirien&show_icons=true&theme=radical)
+![Alex`s GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrucracea&show_icons=true&theme=tokyonight)
 
 
 <!--
