@@ -3,7 +3,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandrucracea&show_icons=true&theme=tokyonight" />
 </p>
 <p>&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrucracea&layout=compact&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrucracea&layout=compact&theme=tokyonight" width="410" />
 </p>
 
 
