@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <img align="left" src="![Alex`s GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrucracea&show_icons=true&theme=tokyonight)" />
+  <p align="left" src="![Alex`s GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrucracea&show_icons=true&theme=tokyonight)" />
 <a href="https://github.com/alexandrucracea/convoychat">
   <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrucracea&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
