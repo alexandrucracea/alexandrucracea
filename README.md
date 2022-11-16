@@ -2,9 +2,9 @@
   <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandrucracea&show_icons=true&theme=tokyonight" />
   </p>
-<a href="https://github.com/alexandrucracea/convoychat">
+<p >
   <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrucracea&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)" />
-</a>
+</p>
 
 
 
