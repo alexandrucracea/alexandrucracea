@@ -3,7 +3,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandrucracea&show_icons=true&theme=tokyonight&count_private=true" alt="ovi" width="400" />
 </p>
 <p>&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrucracea&layout=compact&theme=tokyonight" alt="ovi"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrucracea&layout=compact&theme=tokyonight&count_private=true" alt="ovi"  />
 </p>
 
 
