@@ -1,7 +1,7 @@
 ### Hi there 👋
-  <p>
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandrucracea&show_icons=true&theme=tokyonight" />
-  </p>
+</p>
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrucracea&layout=compact&theme=tokyonight" />
 </p>
