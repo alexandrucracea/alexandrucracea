@@ -1,12 +1,4 @@
 ### Hi there 👋
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandrucracea&show_icons=true&theme=tokyonight&count_private=true" alt="ovi" width="400" />
-</p>
-<p>&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrucracea&layout=compact&theme=tokyonight&count_private=true" alt="ovi"  />
-</p>
-
-
 
 <!--
 **alexandrucracea/alexandrucracea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
